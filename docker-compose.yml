@@ -1,3 +1,4 @@
+---
 version: "3"
 services:
   application:
@@ -22,3 +23,4 @@ services:
       - /data/mysql
 networks:
   springboot-db-net:
+...
